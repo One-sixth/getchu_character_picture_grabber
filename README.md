@@ -6,6 +6,7 @@ A tool main for grab getchu character picture.
 ![](https://github.com/One-sixth/getchu_character_picture_grabber/blob/master/sample/sample1.jpg)
 
 # Downloaded dataset / 已下载的数据集
+#### 2019/7/12
 Baidu disk：https://pan.baidu.com/s/1bTWoEcJRzXJaMM8jELPCBA  
 
 ## Dependent / 依赖
