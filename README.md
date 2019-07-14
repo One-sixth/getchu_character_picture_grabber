@@ -1,6 +1,9 @@
 # getchu_character_picture_grabber
-A tool mainly for grab getchu character picture.  
+A tool main for grab getchu character picture.  
 一个用于抓取角色图的getchu爬虫。  
+
+## Example / 示例
+![](https://github.com/One-sixth/getchu_character_picture_grabber/blob/master/sample/sample1.jpg)
 
 # Downloaded dataset / 已下载的数据集
 Baidu disk：https://pan.baidu.com/s/1bTWoEcJRzXJaMM8jELPCBA  
@@ -212,6 +215,3 @@ python clear_complete_flag.py
 8.扫描完后，输入 y 确认清除，或 n 取消  
 9.如果清除完成，则会输出 'Success'；如果取消了，则会输出 'Cancel'  
 10.清除完成后，重复第一第二步，更新数据库  
-
-## Example / 示例
-![](https://github.com/One-sixth/getchu_character_picture_grabber/blob/master/sample/sample1.jpg)
