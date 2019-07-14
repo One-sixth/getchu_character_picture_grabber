@@ -92,6 +92,8 @@ proxies = {
 ```
 Because of testing on my system, requests are not properly connected to the socks5 proxy protocol. Of course, if your requests library is properly connected to the socks5 proxy protocol, you can still use them.  
 
+It is recommended to use Japanese IP to achieve faster download speeds.
+
 3.Save file.  
 4.Call the following command to start the download.  
 ```
@@ -134,6 +136,8 @@ proxies = {
 }
 ```
 因为在我的系统上测试，requests 不能正常连接上 socks5 代理协议。当然，如果你的 requests 库能正常连接上 socks5 代理协议，你仍然可以使用它们。  
+
+建议使用日本的IP，可以达到较快的下载速度。
 
 3.保存文件  
 4.调用以下命令开始下载  
