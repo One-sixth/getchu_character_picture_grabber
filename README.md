@@ -214,4 +214,4 @@ python clear_complete_flag.py
 10.清除完成后，重复第一第二步，更新数据库  
 
 ## Example / 示例
-
+![](https://github.com/One-sixth/getchu_character_picture_grabber/blob/master/sample/sample1.jpg)
