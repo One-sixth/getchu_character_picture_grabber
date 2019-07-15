@@ -41,6 +41,8 @@ Level third | 第三层
 /dataset/company_id/product_id/data.json  
 /dataset/company_id/product_id/*.jpg  
 
+----------------------------------------------------------------
+
 data.json structure | data.json 结构  
 
 \<chara>  
