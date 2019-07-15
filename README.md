@@ -187,11 +187,9 @@ python3 getchu_grab_pic.py
 8.此时已完成数据抓取，抓取到数据将会位于 dataset 文件夹中  
 
 ### Update dataset / 更新数据库
+
 After a while, getchu will have new products on the shelves and need to update the dataset.  
 The update method is to clear the completion flag first, and then repeat the first and second steps above to update the dataset.  
-
-一段时间后，getchu会有新的产品上架，需要更新数据集。  
-更新方式是先清除完成标志，然后再重复以上的第一第二步，更新数据集  
 
 1. Open clear_complete_flag.py with your text editor  
 2. If you want to refresh the list of companies, find and set clear_stage1_complete = True  
@@ -208,6 +206,9 @@ python3 clear_complete_flag.py
 10. After the cleanup success, repeat the step 1 and step 2 to update the dataset.  
 
 --------------------------------------------------------------------
+
+一段时间后，getchu会有新的产品上架，需要更新数据集。  
+更新方式是先清除完成标志，然后再重复以上的第一第二步，更新数据集  
 
 1.用文本编辑器打开 clear_complete_flag.py  
 2.如果要刷新公司列表，请找到和设置 clear_stage1_complete = True  
