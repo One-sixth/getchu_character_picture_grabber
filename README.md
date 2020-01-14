@@ -7,7 +7,8 @@ A tool main for grab getchu character picture.
 
 # Downloaded dataset / 已下载的数据集
 #### 2019/7/12
-Baidu disk：https://pan.baidu.com/s/1bTWoEcJRzXJaMM8jELPCBA  
+~~Baidu disk：https://pan.baidu.com/s/1bTWoEcJRzXJaMM8jELPCBA~~  
+Baidu disk: https://pan.baidu.com/s/1ZPCnB0M8SBRFmqn0--SFYg code: 5ryn  
 
 ## Dependent / 依赖
 BeautifulSoup >= 4.7.1  
